@@ -1,6 +1,6 @@
 {
   "name": "contentful-typegen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate TypeScript types & interfaces from Contentful content models.",
   "type": "module",
   "main": "dist/index.js",
