@@ -1,8 +1,10 @@
 # contentful-typegen
 
+**This library is not affiliated with, endorsed, or sponsored by Contentful. “Contentful” is a trademark of Contentful GmbH.**
+
 🛠️ Generate **TypeScript types** automatically from your [Contentful](https://www.contentful.com/) content models using the Contentful Management API.
 
-> Output is a `.d.ts` file with ergonomic interfaces, branded entries, and precise link narrowing — similar to [`contentful-typescript-codegen`](https://www.npmjs.com/package/contentful-typescript-codegen) but dependency-free and fully customizable.
+> Output is a `contentful.d.ts` file with ergonomic interfaces, branded entries, and precise link narrowing.
 
 ---
 
