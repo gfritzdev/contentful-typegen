@@ -1,0 +1,13 @@
+__tests__/
+coverage/
+*.test.*
+*.spec.*
+.vitest/
+.vscode/
+.github/
+*.log
+.DS_Store
+src/
+tsconfig*.json
+vitest.config.* 
+coverage/
